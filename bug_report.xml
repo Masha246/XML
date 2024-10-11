@@ -1,1 +1,19 @@
-
+		Environment	Title	Steps	Expected Result	Actual Result	Link	Telegram @nick	Environment	Telegram @nick	Environment	Telegram @nick	Comment												
+1	Major		"After tapping on the [Send a suggestion] button do not 
+open the mail"	"1. Launch the app
+2. Scroll down 
+3. Tap on the [Send a suggestion] button"	Open the mail	Do not open the mail	Link	@fufilya			"iPhone 7 iOS 15.8.3 
+iPhone 13 iOS 17.4.1 
+iPhone 7 iOS 15.8.3
+iPhone 14 Pro Max iOS 17.5.1
+iPhone 13 Pro  iOS 16.1.1 
+"	"@Mariya2808
+@Aleksandra_Tkacheva95
+@lyudmila_sav
+@inetmoegoimeni
+@Ekaterinamartini"	"@nataliarozhina1992 думаю такое поведение из-за локали Беларусь. Кипр отрабатывает как в ожидаемом результате
+@Stasya_Kuzmenko отрабывает в ожидаемом результате
+@yaninka333 отрабатывает ожидаемо, локаль Польша
+@helgahelga7777 отрабатывает ожидаемо
+@Daybreaker322 відпрацьовує так як очікується
+@Kupridjan-Actual Result"												
