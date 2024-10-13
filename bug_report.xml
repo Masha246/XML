@@ -1,12 +1,10 @@
-		ID 1
-Title The button [subscribe] is not clickable
-Envinronment Win 11 Chrome 121
-Severity Major
-Steps 1. Go to www.*****
-Enter you e-mail, password
-Click button [subscribe]
-ER Button [subscribe] is clickable
-AR The button [subscribe] is not clickable
-Attachment link
-Tester's name
-Comments
+<ID> 1 </ID>
+<Title> The button [subscribe] is not clickable </Title>
+<Envinronment> Win 11 Chrome 121 </Envinronment>
+<Severity> Major </Severity>
+<Steps> 1. Go to www.***** 2.Enter you e-mail, password 3.Click button [subscribe] </Steps>
+<ER> Button [subscribe] is clickable </ER>
+<AR> The button [subscribe] is not clickable </AR>
+<Attachment> link </Attachment>
+<Author> Tester's name </Author>
+<Comments> text </Comments>
